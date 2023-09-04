@@ -11,10 +11,6 @@ The TranslateWord algorithm manages the translation of singular words. It identi
 
 Subsequently, the TranslateSentence algorithm decomposes a given sentence into its constituent words, applies the TranslateWord algorithm to each word, and then reconstructs the sentence in Pig Latin, preserving the original spacing between words. When executed, the program demonstrates its functionality by translating predefined text samples.
 
-## Main Features
-* Translates single English words to Pig Latin.
-* Translates complete sentences into Pig Latin, retaining punctuation.
-
 ## Methods
 
 #### `TranslateWord(string word)`
