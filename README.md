@@ -40,11 +40,8 @@ The following example implementation will prompt the user with the message: "Ent
 Once the user inputs the text and hits enter:
 
   * If the input is a single word, the TranslateWord function is called to translate this word to Pig Latin.
-
   * If the input contains multiple words (i.e., it's a sentence), the TranslateSentence function is called, which in turn breaks down the sentence into individual words and translates each word using the TranslateWord function.
-  
   * It then reconstructs the sentence with the translated words.
-  
   * After translating the input, the program displays the translated text in Pig Latin on the screen.
 
 ```csharp
