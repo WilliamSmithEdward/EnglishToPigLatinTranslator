@@ -15,9 +15,6 @@ Subsequently, the TranslateSentence algorithm decomposes a given sentence into i
 * Translates single English words to Pig Latin.
 * Translates complete sentences into Pig Latin, retaining punctuation.
 
-## How To Use
-Run the Program.cs to see the translation of pre-defined words and sentences.
-
 ## Methods
 
 #### `TranslateWord(string word)`
