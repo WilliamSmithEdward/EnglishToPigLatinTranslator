@@ -1,8 +1,6 @@
 # EnglishToPigLatinTranslator
 This program is designed to translate English words and sentences into Pig Latin.
 
-https://edabit.com/challenge/uhsik73PY7Y2XftzG
-
 ## Summary
 
 The program is designed to translate English into Pig Latin. It consists of two main algorithms: one for translating individual words and another for processing entire sentences.
